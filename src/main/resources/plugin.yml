@@ -3,5 +3,5 @@ version: '${version}'
 main: com.ryd.eggbuff.EggBuff
 api-version: '1.20'
 authors: [Ryd]
-description: "Gives configurable buff/s to player with dragon egg"
+description: "Acts as a portable beacon for the player to select primary and secondary effects."
 website: https://github.com/Not-ryd
