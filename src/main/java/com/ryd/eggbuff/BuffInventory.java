@@ -95,7 +95,6 @@ public class BuffInventory implements InventoryHolder {
 
     public void confirm(Player player) {
         if (primary == 9 || secondary == 9) {
-            logger.info("You need to select a primary and secondary.");
             return;
         }
         Collection<PotionEffect> effects = new ArrayList<>();
