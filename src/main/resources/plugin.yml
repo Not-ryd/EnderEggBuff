@@ -1,0 +1,7 @@
+name: EggBuff
+version: '${version}'
+main: com.ryd.eggbuff.EggBuff
+api-version: '1.20'
+authors: [Ryd]
+description: "Gives configurable buff/s to player with dragon egg"
+website: https://github.com/Not-ryd
